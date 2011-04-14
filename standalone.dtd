@@ -1,0 +1,69 @@
+<!ENTITY fileMenu.label "Fil">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY closeCmd.label "Luk">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY quitApplicationCmdWin.label "Luk">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY quitApplicationCmd.label "Luk">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmdMac.label "Slut Zotero">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Fortryd">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY redoCmd.label "Gentag">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Klip">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Kopier">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Indsæt">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Slet">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "Vælg Alle">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "Indstillinger…">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Instillinger">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY findOnCmd.label "Find på denne side…">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Find Igen">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Switch Side Retning">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Switch Text Retning">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY fullZoomEnlargeCmd.label "Zoom Ind">
+<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+
+<!ENTITY fullZoomReduceCmd.label "Zoom Ud">
+<!ENTITY fullZoomReduceCmd.accesskey "O">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+
+<!ENTITY fullZoomResetCmd.label "Nulstil">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+
+<!ENTITY fullZoomToggleCmd.label "Zoom kun text">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.accesskey "Z">

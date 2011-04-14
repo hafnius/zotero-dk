@@ -1,0 +1,10 @@
+<!ENTITY zotero.version "version">
+<!ENTITY zotero.createdby "Udviklet af:">
+<!ENTITY zotero.directors "Direktionsmedlemmer:">
+<!ENTITY zotero.developers "Udviklere:">
+<!ENTITY zotero.alumni "Alumni:">
+<!ENTITY zotero.about.localizations "Oversættelser:">
+<!ENTITY zotero.about.additionalSoftware "Tredje-part Software og Standarder:">
+<!ENTITY zotero.executiveProducer "Ledende Producent:">
+<!ENTITY zotero.thanks "Speciel tak til:">
+<!ENTITY zotero.about.close "Luk">

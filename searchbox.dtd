@@ -1,0 +1,23 @@
+<!ENTITY zotero.search.name "Navn:">
+
+<!ENTITY zotero.search.joinMode.prefix "Match">
+<!ENTITY zotero.search.joinMode.any "enhver">
+<!ENTITY zotero.search.joinMode.all "alle">
+<!ENTITY zotero.search.joinMode.suffix "af de følgende:">
+
+<!ENTITY zotero.search.recursive.label "Search subfolders">
+<!ENTITY zotero.search.noChildren "Only show top-level items">
+<!ENTITY zotero.search.includeParentsAndChildren "Include parent and child items of matching items">
+
+<!ENTITY zotero.search.textModes.phrase "Phrase">
+<!ENTITY zotero.search.textModes.phraseBinary "Phrase (incl. binary files)">
+<!ENTITY zotero.search.textModes.regexp "Regexp">
+<!ENTITY zotero.search.textModes.regexpCS "Regexp (case-sensitive)">
+
+<!ENTITY zotero.search.date.units.days "dage">
+<!ENTITY zotero.search.date.units.months "måneder">
+<!ENTITY zotero.search.date.units.years "år">
+
+<!ENTITY zotero.search.search "Søg">
+<!ENTITY zotero.search.clear "Ryd">
+<!ENTITY zotero.search.saveSearch "Gem Søgning">
